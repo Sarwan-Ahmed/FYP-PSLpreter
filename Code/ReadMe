@@ -1,0 +1,5 @@
+We have collected our own dataset, then we converted it into frames, applied data augmentation, 
+Removed background, converted into NumPy arrays, Normalize the pixel values, then divided it into
+train, validation and test sets. 
+The given colab files are related to each other so it is possible that running a single file in isolated
+form will not work.
